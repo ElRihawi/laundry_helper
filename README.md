@@ -1,17 +1,23 @@
-# laundry_helper
+Laundry Helper
 
-A new Flutter project.
+A simple Flutter app that provides basic laundry care recommendations for different fabric types and checks whether selected fabrics can be washed together.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+Select a fabric: Cotton, Wool, Silk, Polyester, Denim, or Linen.
 
-A few resources to get you started if this is your first Flutter project:
+Choose a color type: Darks, Whites, or Colors.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+View recommended washing, drying, and ironing instructions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Get tips for handling different colors and fabrics.
+
+Select multiple fabrics and check for incompatible combinations.
+
+Running the App
+
+Make sure Flutter is installed, then run:
+
+flutter pub get
+flutter run
+
